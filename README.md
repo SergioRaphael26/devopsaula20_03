@@ -1,2 +1,6 @@
-# devopsaula20_03
-aula dia 20/03
+# Ferramentas de controle de versão:
+
+* Mercurial
+* GitHub
+* Subversion
+* CVS
